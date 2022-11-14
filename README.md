@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsadas
-- 👀 I’m interested in open source and colaboration 
+- 👀 I’m interested in open source and colaborations 
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me 👇👇
