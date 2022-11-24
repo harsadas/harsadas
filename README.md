@@ -1,15 +1,34 @@
-- 👋 Hi, I’m @harsadas
-- 👀 I’m interested in open source and colaborations 
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me 👇👇
-- [Linkedin](https://www.linkedin.com/in/harsadash/)
-- [Twitter](https://twitter.com/Harsa_Dash)
-- just participated in hacktober fest
+<h1 align="center">Hi 👋, I'm Harsa</h1>
+<h3 align="center">A passionate full stack developer and open source contributor from India</h3>
 
-[![@harasdas4783's Holopin board](https://holopin.me/harasdas4783)](https://holopin.io/@harasdas4783)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsadas&label=Profile%20views&color=0e75b6&style=flat" alt="harsadas" /> </p>
 
-<!---
-harsadas/harsadas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsadas" alt="harsadas" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/harsa_dash" target="blank"><img src="https://img.shields.io/twitter/follow/harsa_dash?logo=twitter&style=for-the-badge" alt="harsa_dash" /></a> </p>
+
+- 🌱 I’m currently learning **DevOps**
+
+- 📫 How to reach me **harasdas4783@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/harsa_dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harsa_dash" height="30" width="40" /></a>
+<a href="https://twitter.com/harsa_dash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsa_dash" height="30" width="40" /></a>
+<a href="https://hashnode.com/@harsadash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harsadash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/harsadash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harsadash/" height="30" width="40" /></a>
+<a href="https://discord.gg/harsa dash#3308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harsa dash#3308" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsadas&show_icons=true&locale=en&layout=compact" alt="harsadas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsadas&show_icons=true&locale=en" alt="harsadas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsadas&" alt="harsadas" /></p>
