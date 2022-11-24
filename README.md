@@ -37,14 +37,11 @@
 [![Harsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsadas&theme=react-dark)](https://github.com/harsadas/github-readme-activity-graph)
 
 
+[![](https://visitcount.itsvg.in/api?id=harsadas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-[![](https://visitcount.itsvg.in/api?id=harsadas&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
   
 <p align="left">
