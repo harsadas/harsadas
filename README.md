@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Harsa Dash.</h1>
 <h3 align="center">A passionate full stack developer and open source contributor from India</h3>
 
@@ -47,6 +51,8 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
