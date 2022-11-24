@@ -17,7 +17,7 @@
 🔭 I’m currently working on Full Stack Development.<br><br>
 👯 I’m looking to collaborate on Open Source Full Stack projects.<br><br>
 🤝 I’m looking for help with Open Source Collaboration.<br><br>
-🌱 I’m currently learning Different Tech Stack's.<br><br>
+🌱 I’m currently learning New Tech Stack's.<br><br>
 💬 Ask me about Anything Related To Software Development.<br><br>
 ⚡ Fun fact Addicted To To GitHub Green Dots.
 
