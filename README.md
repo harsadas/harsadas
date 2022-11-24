@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Harsa Dash.</h1>
-<h3 align="center">A passionate full stack developer and open source contributor from India</h3>
+<h3 align="center">A passionate full stack developer and open source contributor from India.</h3>
 
 
 # 📊 GitHub Stats:
