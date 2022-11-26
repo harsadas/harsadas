@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi👋&height=100&section=header"/>
 </p>
 
+
 <h1 align="center">I'm Harsa Dash.</h1>
-<h3 align="center">A passionate full stack developer and open source contributor from India.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Enthusiast;Full+Stack+Development;%20%20Open+Source+Development;%20learning%20new%20Tech%20Stack's&center=true&width=580&height=45"></a>
 
 
 # 📊 GitHub Stats:
