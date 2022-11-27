@@ -20,8 +20,8 @@
 🤝 I’m looking for help with Open Source Collaboration.<br><br>
 🌱 I’m currently learning New Tech Stack's.<br><br>
 💬 Ask me about Anything Related To Software Development.<br><br>
-⚡ Fun fact😹 Addicted To To GitHub Green Dots🟢.
-👇👇 Lets Connect to colaborate and learn.👇👇
+⚡ Fun fact😹 Addicted To To GitHub Green Dots🟢.<br><br>
+👇👇 Lets Connect to colaborate and learn.👇👇<br>
 
 
 ## 🌐 Connect With Me:
