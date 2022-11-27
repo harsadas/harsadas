@@ -14,20 +14,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
 <h1 align="left"> 💫 About Me:</h1>
 🔭 I’m currently working on Full Stack Development.<br><br>
 👯 I’m looking to collaborate on Open Source Full Stack projects.<br><br>
 🤝 I’m looking for help with Open Source Collaboration.<br><br>
 🌱 I’m currently learning New Tech Stack's.<br><br>
 💬 Ask me about Anything Related To Software Development.<br><br>
-⚡ Fun fact Addicted To To GitHub Green Dots.
-
+⚡ Fun fact😹 Addicted To To GitHub Green Dots🟢.
 
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsadash/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ok-Safety-5638) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harsa_Dash)
-
 
 
 # 💻 Tech Stack:
