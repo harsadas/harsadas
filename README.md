@@ -40,8 +40,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=harsadas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 📊 Contribution Graph
-[![Harsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsadas&theme=react-dark)](https://github.com/harsadas/github-readme-activity-graph)
 
 
 
