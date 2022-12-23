@@ -21,7 +21,7 @@
 🌱 I’m currently learning New Tech Stack's.<br><br>
 💬 Ask me about Anything Related To Software Development.<br><br>
 ⚡ Fun fact😹 Addicted To To GitHub Green Dots🟢.<br><br>
-👇👇 Lets Connect to colaborate and learn.<br>
+👇👇 Lets Connect and collaborate.<br>
 
 
 ## 🌐 Connect With Me:
