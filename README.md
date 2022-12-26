@@ -24,7 +24,7 @@
 👇👇 Lets Connect and collaborate.<br>
 
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsadash/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ok-Safety-5638) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harsa_Dash)
 
 
