@@ -36,7 +36,7 @@
 [![@harasdas4783's Holopin board](https://holopin.me/harasdas4783)](https://holopin.io/@harasdas4783)
 
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies::
 ![](https://github-profile-trophy.vercel.app/?username=harsadas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
