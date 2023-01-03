@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<h1 align="left"> 💫 About Me:</h1>
+<h1 align="left"> 💫 About Me::</h1>
 🔭 I’m currently working on Full Stack Development.<br><br>
 👯 I’m looking to collaborate on Open Source Full Stack projects.<br><br>
 🤝 I’m looking for help with Open Source Collaboration.<br><br>
