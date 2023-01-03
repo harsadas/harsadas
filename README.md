@@ -5,7 +5,7 @@
 
 <h1 align="center">I'm Harsa Dash.</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Full+Stack+Developer;%20%20Open+Source+Contributor;%20learning%20new%20Tech%20Stack's&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Full+Stack+Developer;%20%20Open+Sourcer;%20learning%20new%20Tech%20Stack's&center=true&width=580&height=45"></a>
 
 
 # 📊 GitHub Stats::
