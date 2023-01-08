@@ -47,7 +47,7 @@
 [![](https://visitcount.itsvg.in/api?id=harsadas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## ✍️ Random Dev Quotes::
+## ✍️ Random Dev Quotes:::
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   
