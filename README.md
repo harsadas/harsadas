@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Full+Stack+Developer;%20%20Open+Sourcer;%20learning%20new%20Tech%20Stack's&center=true&width=580&height=45"></a>
 
 
-# 📊 GitHub Stats::
+# 📊 GitHub Stats:::
 ![](https://github-readme-stats.vercel.app/api?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harsadas&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsadas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
